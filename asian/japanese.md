@@ -5,7 +5,7 @@ Select a restaurant:
 ## [Bayridge Sushi](http://www.brsushi.com/)
 ---
 
-[Back to Asian](../asian.md)
+[Back to Asian](../asian)
 
 [Start Over](../home.md)
 
